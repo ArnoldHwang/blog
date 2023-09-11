@@ -1,0 +1,50 @@
+[
+  {
+    "title": "짜장면",
+    "description": "짱게 음식이다 칼로리짱높음",
+    "date": "2022-05-08",
+    "category": "중식",
+    "path": "금호동",
+    "featured": false
+  },
+  {
+    "title": "제육볶음",
+    "description": "맛있다 고기",
+    "date": "2022-05-18",
+    "category": "한식",
+    "path": "쌍촌동",
+    "featured": false
+  },
+  {
+    "title": "족발&보쌈",
+    "description": "물에 빠진고기",
+    "date": "2022-05-28",
+    "category": "한식",
+    "path": "쌍촌동",
+    "featured": false
+  },
+  {
+    "title": "삼겹살",
+    "description": "굽는데 오래걸림 짱남",
+    "date": "2022-05-14",
+    "category": "한식",
+    "path": "쌍촌동",
+    "featured": false
+  },
+  {
+    "title": "초밥",
+    "description": "이제 방사능 떄문에 못먹어",
+    "date": "2022-05-22",
+    "category": "일식",
+    "path": "상무지구",
+    "featured": false
+  },
+  {
+    "title": "메로구이",
+    "description": "이거 겁나 기름져",
+    "date": "2022-04-08",
+    "category": "일식",
+    "path": "상무지구",
+    "featured": false
+  }
+]
