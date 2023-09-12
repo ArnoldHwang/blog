@@ -19,10 +19,10 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" className={sans.className}>
-      <body>
+      <body className="flex flex-col">
         <Header />
-        <div className="flex flex-col align-middle w-full max-w-screen-2xl mx-auto">
-          <main className="flex-1">{children}</main>
+        <div className="flex-1 align-middle w-full max-w-screen-2xl mx-auto">
+          <main className="flex-auto">{children}</main>
         </div>
         <Footer />
       </body>

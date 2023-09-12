@@ -15,7 +15,7 @@ export default function Hero() {
       <h3 className="font-bold text-2xl m-1">Front-end developer</h3>
       <p className="font-bold text-base">Next.js 13.4.19</p>
       <p className="font-bold text-base">TypeScript</p>
-      <p className="font-bold text-base">Tailwind css</p>
+      <p className="font-bold text-base">React.js</p>
     </div>
   );
 }

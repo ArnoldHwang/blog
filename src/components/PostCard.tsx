@@ -9,7 +9,7 @@ export default function PostCard({
 }: Props) {
   return (
     <Link href={`/posts/${path}`}>
-      <div className="flex flex-col rounded-md overflow-hidden shadow-lg">
+      <div className="flex flex-col rounded-md overflow-hidden shadow-lg hover:shadow-2xl">
         <div className="flex justify-center pt-3 ">
           <Image
             src={`/imgs/posts/${path}.png`}

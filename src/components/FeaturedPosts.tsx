@@ -1,7 +1,8 @@
 import { getfeaturedPosts } from "@/apis/posts";
 import PostsGrid from "./PostsGrid";
+import { useState } from "react";
 
-export default async function FeaturedPosts() {
+export default async function FeaturedPosts({ state }: { state?: string }) {
   const posts = await getfeaturedPosts();
 
   return (
