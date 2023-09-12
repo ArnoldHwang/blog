@@ -1,50 +1,42 @@
 [
   {
-    "title": "짜장면",
-    "description": "짱게 음식이다 칼로리짱높음",
-    "date": "2022-05-08",
-    "category": "중식",
-    "path": "금호동",
+    "title": "HTML5",
+    "description": "HTML5 는 차세대 웹 표준으로 확정(2014년 10월 28일)되었으며, 기존 텍스트와 하이퍼링크만 표시하던 HTML이 멀티미디어 등 다양한 애플리케이션까지 표현·제공하도록 진화한 “웹 프로그래밍 언어“입니다.",
+    "date": "2023-09-12",
+    "category": "html",
+    "path": "review-2021",
     "featured": false
   },
   {
-    "title": "제육볶음",
-    "description": "맛있다 고기",
-    "date": "2022-05-18",
-    "category": "한식",
-    "path": "쌍촌동",
+    "title": "css",
+    "description": "CSS 는 HTML과 함께 웹을 구성하는 기본 프로그래밍 요소 입니다. HTML이 텍스트나 이미지, 표와 같은 구성 요소를 웹 문서에 넣어 뼈대를 만드는 것이라면 CSS는 색상이나 크기, 이미지 크기나 위치, 배치 방법 등 웹 문서의 디자인 요소를 담당 합니다.",
+    "date": "2023-09-12",
+    "category": "css",
+    "path": "react18-walkthrough",
     "featured": false
   },
   {
-    "title": "족발&보쌈",
-    "description": "물에 빠진고기",
-    "date": "2022-05-28",
-    "category": "한식",
-    "path": "쌍촌동",
+    "title": "JavaScript.png",
+    "description": "객체 기반의 스크립트 프로그래밍 언어이다. 이 언어는 웹 브라우저 내에서 주로 사용되며, 다른 응용 프로그램의 내장 객체에도 접근할 수 있는 기능을 가지고 있다.",
+    "date": "2023-09-12",
+    "category": "JavaScript",
+    "path": "javascript-10-tips",
     "featured": false
   },
   {
-    "title": "삼겹살",
-    "description": "굽는데 오래걸림 짱남",
-    "date": "2022-05-14",
-    "category": "한식",
-    "path": "쌍촌동",
+    "title": "react",
+    "description": "리액트는 UI 자바스크립트 라이브러리로써 싱글 페이지 애플리케이션의 UI(User Interface)를 생성하는데 집중한 라이브러리입니다.",
+    "date": "2023-09-12",
+    "category": "react.js",
+    "path": "best-react-practices",
     "featured": false
   },
   {
-    "title": "초밥",
-    "description": "이제 방사능 떄문에 못먹어",
-    "date": "2022-05-22",
-    "category": "일식",
-    "path": "상무지구",
-    "featured": false
-  },
-  {
-    "title": "메로구이",
-    "description": "이거 겁나 기름져",
-    "date": "2022-04-08",
-    "category": "일식",
-    "path": "상무지구",
+    "title": "Next",
+    "description": "Next.js는 React를 기반으로 한 오픈 소스 프레임워크로, 현대적인 웹 애플리케이션 개발 과정을 간소화하는데 사용됩니다",
+    "date": "2023-09-12",
+    "category": "Next.js",
+    "path": "node-pro-tips",
     "featured": false
   }
 ]
