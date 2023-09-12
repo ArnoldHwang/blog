@@ -1,14 +1,8 @@
-import FeaturedPosts from "@/components/FeaturedPosts";
-import { useRouter } from "next/router";
-import { useState } from "react";
+import { getAllPost } from "@/apis/posts";
 
-export default function Posts() {
-  return (
-    <div className="flex">
-      <div></div>
-      <div className="w-36">
-        <button>All Posts</button>
-      </div>
-    </div>
-  );
+export default async function Posts() {
+  const posts = await getAllPost();
+  const categories = [...new Set(posts.map((post) => post.category))];
+  console.log(categories);
+  return <div></div>;
 }
